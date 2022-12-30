@@ -5,7 +5,7 @@
 <br>
 <p align="center">
         <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
-            <img src="https://icongr.am/devicon/csharp-plain.svg?size=128&color=currentColor"
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"
                 alt="html5" width="40" height="40" />
         </a>
         <a href="https://learn.microsoft.com/en-us/sql/?view=sql-server-ver16" target="_blank">

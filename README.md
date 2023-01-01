@@ -32,6 +32,10 @@
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" 
             alt="html5" width="40" height="40"/>
         </a>
+        <a href="https://kafka.apache.org/documentation/" target="_blank">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original-wordmark.svg" 
+            alt="html5" width="40" height="40"/>
+        </a>
 </p>
 <!-- LANGUAGE_AND_TOOLS-LIST:END -->
   

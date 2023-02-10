@@ -36,6 +36,10 @@
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original-wordmark.svg" 
             alt="html5" width="40" height="40"/>
         </a>
+        <a href="https://www.rabbitmq.com/documentation.html" target="_blank">
+            <img src="https://www.svgrepo.com/show/303576/rabbitmq-logo.svg" 
+            alt="html5" width="40" height="40"/>
+        </a>
 </p>
 <!-- LANGUAGE_AND_TOOLS-LIST:END -->
   
